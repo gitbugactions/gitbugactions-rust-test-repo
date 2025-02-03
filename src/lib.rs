@@ -6,7 +6,7 @@ impl AppMath {
     }
 
     pub fn sum(&self, a: i32, b: i32) -> i32 {
-        a - b
+        a + b
     }
 
     pub fn subtract(&self, a: i32, b: i32) -> i32 {
